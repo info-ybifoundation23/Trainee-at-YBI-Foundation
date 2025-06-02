@@ -1,2 +1,3 @@
 # Trainee-at-YBI-Foundation
-my projects
+I am learning at YBI Foundation
+Artificial intelligence and Generative AI
